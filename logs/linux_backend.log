@@ -1,0 +1,136 @@
+2023-07-19 14:58:26,450 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-19 14:58:26,453 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-19 14:58:27,298 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-19 14:58:27,300 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-19 14:59:23,858 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-19 14:59:23,873 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-19 14:59:24,706 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-19 14:59:24,721 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-19 15:03:28,172 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-19 15:03:28,173 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-19 15:03:29,020 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-19 15:03:29,021 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-19 15:05:27,056 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-19 15:05:27,059 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-19 15:05:27,904 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-19 15:05:27,907 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-19 15:12:41,018 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-19 15:12:41,034 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-19 15:12:41,867 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-19 15:12:41,881 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-19 15:13:14,138 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-19 15:13:14,142 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-19 15:13:14,987 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-19 15:13:14,990 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-19 15:18:02,658 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-19 15:18:02,670 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-19 15:18:03,506 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-19 15:18:03,518 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 12:58:23,257 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 12:58:23,262 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 12:58:24,107 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 12:58:24,110 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 15:43:29,240 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 15:43:29,248 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 15:43:30,088 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 15:43:30,096 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 15:45:10,193 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 15:45:10,195 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 15:45:11,042 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 15:45:11,043 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 15:45:25,511 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 15:45:25,520 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 15:45:26,360 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 15:45:26,367 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 15:46:33,188 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 15:46:33,199 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 15:46:34,036 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 15:46:34,047 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 15:55:52,469 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 15:55:52,470 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 15:55:53,318 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 15:55:53,319 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 15:58:40,616 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 15:58:40,618 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 15:58:41,464 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 15:58:41,465 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 15:59:47,758 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 15:59:47,758 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 15:59:48,607 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 15:59:48,607 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 16:00:41,334 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 16:00:41,344 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 16:00:42,182 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 16:00:42,192 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 16:02:05,569 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 16:02:05,583 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 16:02:06,418 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 16:02:06,430 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 16:04:29,264 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 16:04:29,269 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 16:04:30,113 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 16:04:30,116 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 16:07:47,737 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 16:07:47,756 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 16:07:48,586 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 16:07:48,604 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 16:09:11,561 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 16:09:11,567 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 16:09:12,410 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 16:09:12,414 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 16:10:29,896 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 16:10:29,907 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 16:10:30,745 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 16:10:30,755 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 16:11:42,068 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 16:11:42,081 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 16:11:42,916 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 16:11:42,929 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 16:43:04,625 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 16:43:04,627 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 16:43:05,473 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 16:43:05,474 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 16:48:43,932 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 16:48:43,968 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 16:48:44,780 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 16:48:44,816 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 16:52:58,434 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 16:52:58,451 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 16:52:59,283 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 16:52:59,299 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 16:53:14,860 - linux_backend - WARNING - IP not connected: 192.168.110.163 with netmiko
+2023-07-20 16:53:14,860 - linux_backend - WARNING - 192.168.110.163 had an invalid connection
+2023-07-20 16:53:14,860 - linux_backend - WARNING - IP not connected: 192.168.110.54 with netmiko
+2023-07-20 16:53:14,860 - linux_backend - WARNING - 192.168.110.54 had an invalid connection
+2023-07-20 16:53:57,608 - linux_backend - WARNING - IP not connected: 192.168.110.163 with netmiko
+2023-07-20 16:53:57,608 - linux_backend - WARNING - 192.168.110.163 had an invalid connection
+2023-07-20 16:54:04,611 - linux_backend - WARNING - IP not connected: 192.168.110.54 with netmiko
+2023-07-20 16:54:04,612 - linux_backend - WARNING - 192.168.110.54 had an invalid connection
+2023-07-20 16:54:19,912 - linux_backend - WARNING - IP not connected: 192.168.110.163 with netmiko
+2023-07-20 16:54:19,912 - linux_backend - WARNING - 192.168.110.163 had an invalid connection
+2023-07-20 16:54:20,068 - linux_backend - WARNING - IP not connected: 192.168.110.54 with netmiko
+2023-07-20 16:54:20,068 - linux_backend - WARNING - 192.168.110.54 had an invalid connection
+2023-07-20 16:54:41,956 - linux_backend - WARNING - IP not connected: 192.168.110.54 with netmiko
+2023-07-20 16:54:41,956 - linux_backend - WARNING - IP not connected: 192.168.110.163 with netmiko
+2023-07-20 16:54:41,957 - linux_backend - WARNING - 192.168.110.163 had an invalid connection
+2023-07-20 16:54:41,957 - linux_backend - WARNING - 192.168.110.54 had an invalid connection
+2023-07-20 16:55:44,040 - linux_backend - WARNING - IP not connected: 192.168.110.54 with netmiko
+2023-07-20 16:55:44,041 - linux_backend - WARNING - 192.168.110.54 had an invalid connection
+2023-07-20 16:55:44,041 - linux_backend - WARNING - IP not connected: 192.168.110.163 with netmiko
+2023-07-20 16:55:44,041 - linux_backend - WARNING - 192.168.110.163 had an invalid connection
+2023-07-20 16:56:02,934 - linux_backend - WARNING - IP not connected: 192.168.110.163 with netmiko
+2023-07-20 16:56:02,934 - linux_backend - WARNING - 192.168.110.163 had an invalid connection
+2023-07-20 16:56:03,674 - linux_backend - INFO - IP connected: 192.168.110.54 with netmiko
+2023-07-20 16:56:04,524 - linux_backend - INFO - Found serial FLM26410CD5 with an ip of 192.168.110.54
+2023-07-20 16:56:52,791 - linux_backend - INFO - IP connected: 192.168.110.163 with netmiko
+2023-07-20 16:56:53,639 - linux_backend - INFO - Found serial FLM26410C8M with an ip of 192.168.110.163
+2023-07-20 16:57:01,310 - linux_backend - WARNING - IP not connected: 192.168.110.54 with netmiko
+2023-07-20 16:57:01,310 - linux_backend - WARNING - 192.168.110.54 had an invalid connection
+2023-07-20 16:57:27,767 - linux_backend - WARNING - IP not connected: 192.168.110.163 with netmiko
+2023-07-20 16:57:27,767 - linux_backend - WARNING - 192.168.110.163 had an invalid connection
+2023-07-20 16:57:30,772 - linux_backend - WARNING - IP not connected: 192.168.110.54 with netmiko
+2023-07-20 16:57:30,772 - linux_backend - WARNING - 192.168.110.54 had an invalid connection
+2023-07-20 16:58:22,948 - linux_backend - WARNING - IP not connected: 192.168.110.163 with netmiko
+2023-07-20 16:58:22,948 - linux_backend - WARNING - 192.168.110.163 had an invalid connection
+2023-07-20 16:58:31,254 - linux_backend - WARNING - IP not connected: 192.168.110.54 with netmiko
+2023-07-20 16:58:31,255 - linux_backend - WARNING - 192.168.110.54 had an invalid connection
